@@ -1,0 +1,49 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Never ignore the build output the assignment asks us to hand in
+!/[Bb]uilds/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Unity crash reports
+sysinfo.txt
+crashlytics-build.properties
+
+# Unity build side-products - large, and Unity itself says not to ship them
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+
+# Keep only the most recent APK in the repo
+/Builds/CardboardBuild1.apk
+/Builds/CardboardBuild2.apk
